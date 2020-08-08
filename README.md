@@ -1,2 +1,2 @@
 # hello-world
-Welcome to Git tutorials!
+Welcome to Git tutorial!
